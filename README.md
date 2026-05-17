@@ -1,8 +1,12 @@
-# Ciao, sono Federico! 👋
+# Federico Taiola
 
-Sono un futuro Ingegnere Informatico con la passione per l'**Intelligenza Artificiale**, gli **Agenti AI** e lo sviluppo di soluzioni che uniscono il mondo tech con quello del business.
+Ingegnere Informatico (prossimo alla laurea) all'Università di Brescia.
+Mi occupo di AI applicata — agenti, automazione, sistemi che pensano.
+Racconto quello che costruisco su YouTube → [@fede_taiola](https://www.youtube.com/@fede_taiola)
 
-## 🛠 Tech Stack & Competenze
+---
+
+## 🛠 Stack
 
 ### Linguaggi
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -16,22 +20,24 @@ Sono un futuro Ingegnere Informatico con la passione per l'**Intelligenza Artifi
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=google&logoColor=white)
 
-### Tools & Technologies
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🚀 Progetti in primo piano
+---
 
-Sto lavorando costantemente per trasformare la teoria universitaria in software reale:
+## 🚀 Progetti
 
-*   **[Personal AI-KB Template](https://github.com/FedeTaiola/personal-ai-kb):** Sistema di Knowledge Base personale su Notion per potenziare le interazioni con Claude via MCP.
-*   **[Hand Gesture Mouse Controller](https://github.com/FedeTaiola/Hand-Gesture-Mouse-Controller):** HCI system che permette di controllare il mouse tramite Computer Vision.
-*   **[Blackjack Object Detection](https://github.com/FedeTaiola/blackjack-object-detection):** Pipeline AI (YOLOv11) per il riconoscimento in tempo reale delle carte.
-*   **[Plant Watering System](https://github.com/FedeTaiola/Plant_Watering_System):** Sistema di irrigazione IoT embedded basato su ESP32, con gestione HMI avanzata (doppio OLED) e controllo remoto via Blynk.
+- **[Personal AI-KB Template](https://github.com/FedeTaiola/personal-ai-kb)** — Sistema di Knowledge Base su Notion per dare contesto persistente a Claude via MCP. Funziona con il piano gratuito. Documentazione completa, pronto da replicare.
+- **[Hand Gesture Mouse Controller](https://github.com/FedeTaiola/Hand-Gesture-Mouse-Controller)** — Controllo del mouse tramite gesture della mano, senza hardware aggiuntivo. HCI system in Python con MediaPipe.
+- **[Blackjack Object Detection](https://github.com/FedeTaiola/blackjack-object-detection)** — Pipeline AI con YOLOv11 per il riconoscimento in tempo reale delle carte da gioco.
+- **[Plant Watering System](https://github.com/FedeTaiola/Plant_Watering_System)** — Sistema di irrigazione IoT su ESP32 con doppio OLED e controllo remoto via Blynk.
+
 ---
 
 ## 📬 Contatti
-Se ti interessa il mio lavoro o vuoi collaborare, scrivimi pure:
-📧 **Email:** [fede.taiola.collab@gmail.com](mailto:fede.taiola.collab@gmail.com)
-🔗 **LinkedIn:** [Federico Taiola](https://www.linkedin.com/in/federico-taiola/)
+
+📧 [fede.taiola.collab@gmail.com](mailto:fede.taiola.collab@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/federico-taiola/)
+▶️ [YouTube](https://www.youtube.com/@fede_taiola)
