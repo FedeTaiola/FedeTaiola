@@ -25,6 +25,7 @@ Sono un futuro Ingegnere Informatico con la passione per l'**Intelligenza Artifi
 
 Sto lavorando costantemente per trasformare la teoria universitaria in software reale:
 
+*   **[Personal AI-KB Template](https://github.com/FedeTaiola/personal-ai-kb):** Sistema di Knowledge Base personale su Notion per potenziare le interazioni con Claude via MCP.
 *   **[Hand Gesture Mouse Controller](https://github.com/FedeTaiola/Hand-Gesture-Mouse-Controller):** HCI system che permette di controllare il mouse tramite Computer Vision.
 *   **[Blackjack Object Detection](https://github.com/FedeTaiola/blackjack-object-detection):** Pipeline AI (YOLOv11) per il riconoscimento in tempo reale delle carte.
 *   **[Plant Watering System](https://github.com/FedeTaiola/Plant_Watering_System):** Sistema di irrigazione IoT embedded basato su ESP32, con gestione HMI avanzata (doppio OLED) e controllo remoto via Blynk.
