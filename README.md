@@ -1,14 +1,14 @@
 # Federico Taiola
 
-Ingegnere Informatico (prossimo alla laurea) all'Università di Brescia.
-Mi occupo di AI applicata — agenti, automazione, sistemi che pensano.
-Racconto quello che costruisco su YouTube → [@fede_taiola](https://www.youtube.com/@fede_taiola)
+Computer Science student @ University of Brescia — graduating 2025.
+I build AI-powered tools, computer vision systems, and IoT projects.
+Documenting what I make on YouTube → [@fede_taiola](https://www.youtube.com/@fede_taiola)
 
 ---
 
 ## 🛠 Stack
 
-### Linguaggi
+### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -27,16 +27,18 @@ Racconto quello che costruisco su YouTube → [@fede_taiola](https://www.youtube
 
 ---
 
-## 🚀 Progetti
+## 🚀 Projects
 
-- **[Personal AI-KB Template](https://github.com/FedeTaiola/personal-ai-kb)** — Sistema di Knowledge Base su Notion per dare contesto persistente a Claude via MCP. Funziona con il piano gratuito. Documentazione completa, pronto da replicare.
-- **[Hand Gesture Mouse Controller](https://github.com/FedeTaiola/Hand-Gesture-Mouse-Controller)** — Controllo del mouse tramite gesture della mano, senza hardware aggiuntivo. HCI system in Python con MediaPipe.
-- **[Blackjack Object Detection](https://github.com/FedeTaiola/blackjack-object-detection)** — Pipeline AI con YOLOv11 per il riconoscimento in tempo reale delle carte da gioco.
-- **[Plant Watering System](https://github.com/FedeTaiola/Plant_Watering_System)** — Sistema di irrigazione IoT su ESP32 con doppio OLED e controllo remoto via Blynk.
+- **[BriscolaGPT](https://github.com/FedeTaiola/briscolagpt-clean)** — Briscola card game in Java with a GPT-4 AI opponent. University project @ UniBS.
+- **[Personal AI-KB Template](https://github.com/FedeTaiola/personal-ai-kb)** — Notion-based knowledge base system to give Claude persistent context via MCP. Works on the free plan. Fully documented and ready to replicate.
+- **[Hand Gesture Mouse Controller](https://github.com/FedeTaiola/Hand-Gesture-Mouse-Controller)** — Control your OS cursor with hand gestures, no extra hardware needed. HCI system built with Python and MediaPipe.
+- **[Blackjack Object Detection](https://github.com/FedeTaiola/Blackjack-Object-Detection)** — Real-time playing card recognition pipeline using YOLOv11.
+- **[Luxury Cars Symfony](https://github.com/FedeTaiola/luxury-cars-symfony)** — Full-stack luxury car dealership platform built with Symfony 6.4. University project @ UniBS.
+- **[Plant Watering System](https://github.com/FedeTaiola/Plant_Watering_System)** — Automated IoT irrigation system on ESP32 with dual OLED display and remote control via Blynk.
 
 ---
 
-## 📬 Contatti
+## 📬 Contact
 
 📧 [fede.taiola.collab@gmail.com](mailto:fede.taiola.collab@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/federico-taiola/)
