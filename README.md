@@ -1,45 +1,90 @@
-# Federico Taiola
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Federico%20Taiola&fontSize=40&fontColor=ffffff" />
+</p>
 
-Computer Science student @ University of Brescia — graduating 2025.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F75C7E&center=true&vCenter=true&lines=Computer+Science+Student;AI+Builder;Computer+Vision+Developer;IoT+Engineer" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+Computer Science student @ University of Brescia — graduating 2025.  
 I build AI-powered tools, computer vision systems, and IoT projects.
-Documenting what I make on YouTube → [@fede_taiola](https://www.youtube.com/@fede_taiola)
+
+I document everything I build on:
+
+<p align="left">
+  <a href="https://www.youtube.com/@fede_taiola">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/federico-taiola/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
 ---
 
 ## 🛠 Stack
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+### 💻 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php" />
+</p>
 
-### AI & Computer Vision
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=google&logoColor=white)
+### 🧠 AI & Computer Vision
+- OpenCV pipelines  
+- YOLO object detection  
+- MediaPipe hand tracking  
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### ⚙️ Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,arduino,mysql,vscode,linux" />
+</p>
 
 ---
 
 ## 🚀 Projects
 
-- **[BriscolaGPT](https://github.com/FedeTaiola/briscolagpt-clean)** — Briscola card game in Java with a GPT-4 AI opponent. University project @ UniBS.
-- **[Personal AI-KB Template](https://github.com/FedeTaiola/personal-ai-kb)** — Notion-based knowledge base system to give Claude persistent context via MCP. Works on the free plan. Fully documented and ready to replicate.
-- **[Hand Gesture Mouse Controller](https://github.com/FedeTaiola/Hand-Gesture-Mouse-Controller)** — Control your OS cursor with hand gestures, no extra hardware needed. HCI system built with Python and MediaPipe.
-- **[Blackjack Object Detection](https://github.com/FedeTaiola/Blackjack-Object-Detection)** — Real-time playing card recognition pipeline using YOLOv11.
-- **[Luxury Cars Symfony](https://github.com/FedeTaiola/luxury-cars-symfony)** — Full-stack luxury car dealership platform built with Symfony 6.4. University project @ UniBS.
-- **[Plant Watering System](https://github.com/FedeTaiola/Plant_Watering_System)** — Automated IoT irrigation system on ESP32 with dual OLED display and remote control via Blynk.
+### 🤖 AI / Computer Vision / HCI
+
+- **[BriscolaGPT](https://github.com/FedeTaiola/briscolagpt-clean)**  
+  Java Briscola game with GPT-4 AI opponent — UniBS project.
+
+- **[Hand Gesture Mouse Controller](https://github.com/FedeTaiola/Hand-Gesture-Mouse-Controller)**  
+  Control PC cursor with hand tracking (MediaPipe + Python).
+
+- **[Blackjack Object Detection](https://github.com/FedeTaiola/Blackjack-Object-Detection)**  
+  Real-time card detection using YOLOv11.
 
 ---
 
-## 📬 Contact
+### 🧠 AI Systems
 
-📧 [fede.taiola.collab@gmail.com](mailto:fede.taiola.collab@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/federico-taiola/)
-▶️ [YouTube](https://www.youtube.com/@fede_taiola)
+- **[Personal AI-KB Template](https://github.com/FedeTaiola/personal-ai-kb)**  
+  Modular knowledge base system for persistent AI context (Claude / MCP-ready).
+
+---
+
+### 🌐 Full Stack / IoT
+
+- **[Luxury Cars Symfony](https://github.com/FedeTaiola/luxury-cars-symfony)**  
+  Full-stack car dealership platform (Symfony 6.4).
+
+- **[Plant Watering System](https://github.com/FedeTaiola/Plant_Watering_System)**  
+  ESP32 IoT irrigation system with remote control (Blynk + OLED).
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<p align="center">
+  🚀 Building systems, not just code.
+</p>
