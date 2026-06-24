@@ -77,6 +77,29 @@ I document everything I build on:
 
 ---
 
+## 🎓 University Projects
+
+### 📋 Study Tools
+
+- **[Quiz Normative delle TLC - Parte A](https://github.com/FedeTaiola/quiz-normative-delle-tlc-parte-a)**  
+  Interactive quiz for Telecommunications Regulations (Prof. Signoroni) with Flask backend and result history.
+
+- **[Quiz Ingegneria Software B](https://github.com/FedeTaiola/quiz-ingegneria-software-b)**  
+  Study tool for Software Engineering B course with web frontend, Flask backend, and automatic progress tracking.
+
+### 💼 Course Projects
+
+- **[Luxury Cars Symfony](https://github.com/FedeTaiola/luxury-cars-symfony)**  
+  Full-stack car dealership web platform (Symfony 6.4) — Full Stack Web Development project.
+
+- **[BriscolaGPT Clean](https://github.com/FedeTaiola/briscolagpt-clean)**  
+  Briscola card game with AI opponent using GPT-4 API (Java) — Software Engineering project.
+
+- **[Plant Watering System](https://github.com/FedeTaiola/Plant_Watering_System)**  
+  ESP32-based automated irrigation system with dual OLED display and cloud integration — IoT Systems project.
+
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
