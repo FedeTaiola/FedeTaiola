@@ -49,9 +49,6 @@ I document everything I build on:
 
 ### 🤖 AI / Computer Vision / HCI
 
-- **[BriscolaGPT](https://github.com/FedeTaiola/briscolagpt-clean)**  
-  Java Briscola game with GPT-4 AI opponent — UniBS project.
-
 - **[Hand Gesture Mouse Controller](https://github.com/FedeTaiola/Hand-Gesture-Mouse-Controller)**  
   Control PC cursor with hand tracking (MediaPipe + Python).
 
@@ -64,16 +61,6 @@ I document everything I build on:
 
 - **[Personal AI-KB Template](https://github.com/FedeTaiola/personal-ai-kb)**  
   Modular knowledge base system for persistent AI context (Claude / MCP-ready).
-
----
-
-### 🌐 Full Stack / IoT
-
-- **[Luxury Cars Symfony](https://github.com/FedeTaiola/luxury-cars-symfony)**  
-  Full-stack car dealership platform (Symfony 6.4).
-
-- **[Plant Watering System](https://github.com/FedeTaiola/Plant_Watering_System)**  
-  ESP32 IoT irrigation system with remote control (Blynk + OLED).
 
 ---
 
