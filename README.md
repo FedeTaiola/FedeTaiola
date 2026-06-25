@@ -59,6 +59,9 @@ I document everything I build on:
 
 ### 🧠 AI Systems
 
+- **[YouTube AI Dashboard](https://github.com/FedeTaiola/YouTube-AI-Dashboard)**  
+  Personal Streamlit dashboard for YouTube Analytics: dynamic CSV ingestion, KPI processing, interactive Plotly visualizations, and AI-ready strategic insights workflow (cost-free, no direct API dependency).
+
 - **[Personal AI-KB Template](https://github.com/FedeTaiola/personal-ai-kb)**  
   Modular knowledge base system for persistent AI context (Claude / MCP-ready).
 
