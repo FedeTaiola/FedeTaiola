@@ -65,6 +65,9 @@ I document everything I build on:
 - **[Personal AI-KB Template](https://github.com/FedeTaiola/personal-ai-kb)**  
   Modular knowledge base system for persistent AI context (Claude / MCP-ready).
 
+- **[AI Quota Tracker](https://github.com/FedeTaiola/ai-quota-tracker)**
+Privacy-first, client-side web dashboard to track AI agent usage quotas and reset cycles with local storage, dynamic custom services, and auto day/night theme.
+
 ---
 
 ## 🎓 University Projects
